@@ -55,7 +55,7 @@ class _ClientePageState extends State<ClientePage> {
                             borderSide: BorderSide(color: Colors.green)
                         )),
                     ),
-                        
+
                     //--------------------------
                     TextField(
                       decoration: InputDecoration(
